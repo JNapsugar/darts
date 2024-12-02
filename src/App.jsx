@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, NavLink, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, NavLink, Routes, Route } from "react-router-dom";
 import { DartsListPage } from "./DartsListPage";
 import {DartsSingle} from "./DartsSingle";
 import {DartsCreate} from "./DartsCreate";
